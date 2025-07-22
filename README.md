@@ -7,4 +7,3 @@
 - Git Config --global user.email "email"
 - Git init
 - Git remote origin (link do repositório)
-- 
